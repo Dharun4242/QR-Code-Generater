@@ -1,0 +1,1 @@
+upi://pay?pa=dharunjayakrishnan@okaxis&pn=Dharun&am=2000&cu=INR&tn=
